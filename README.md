@@ -5,7 +5,11 @@
 ... is a feature-changing magic mod for Minecraft, that **reworks** the **invisibility effect**. The mod is hugely inspired by **Minecraft Dungeons (II)**, in which the effect works pretty similar. An **official Fabric port** & **updates** for the next game drops are **planned**.
 
 ----
-Feel free to support me & my upcoming mods!❤️ 
+
+## Have a look at my modrinth profile...
+[![profile](https://cdn.modrinth.com/data/cached_images/61b082253c4185f3eec87954c5f939ed57792fd6.png)](https://modrinth.com/user/GoAchtii)
+
+## ... and feel free to support me & my upcoming mods!❤️ 
 
 <a href='https://ko-fi.com/W7W51CDJU1' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
@@ -39,10 +43,6 @@ This mod should be compatible with every other mod, but there can be some major 
 
 ----
 
-[![docs](https://cdn.modrinth.com/data/cached_images/b1008ce781da1085f1a7a077abb1fd2f39aa08e0.png)](https://github.com/GoAchtii/Better-Invis)
-
-----
-
 ### Modpacks
 ... are **allowed** to contain all of my mods. **I do not allow anyone to repost my mods to this / other sites without my permission or link to this page in the first line of the description.**
 For business inquiries add **@goachtii** on discord.
@@ -52,7 +52,3 @@ The Config in the in-game mod menu may be translated in upcoming updates.
 
 ### Credits
 Minecraft Dungeons II (idea)
-____
-
-## Have a look at my profile!
-[![profile](https://cdn.modrinth.com/data/cached_images/61b082253c4185f3eec87954c5f939ed57792fd6.png)](https://modrinth.com/user/GoAchtii)
